@@ -28,6 +28,7 @@ ADD_EXECUTABLE(kora-tests
     dynamic/converter
     dynamic/json
     dynamic/object
+    utility/integer_sequence
     utility/lazy_false
     utility/noexcept
     utility/noreturn
